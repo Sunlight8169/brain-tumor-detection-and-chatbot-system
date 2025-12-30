@@ -1,0 +1,704 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a brain tumor?",
+      "answer": "A brain tumor is an abnormal growth of cells in the brain. It can be benign (non-cancerous) or malignant (cancerous). Brain tumors can originate in the brain (primary) or spread from other parts of the body (metastatic). They can affect brain function depending on their size, type, and location.",
+      "keywords": ["brain tumor", "definition", "what is", "tumor", "cancer"],
+      "category": "basics"
+    },
+    {
+      "id": 2,
+      "question": "What are the symptoms of a brain tumor?",
+      "answer": "Common symptoms include persistent headaches (especially in the morning), seizures, vision or hearing problems, balance and coordination issues, nausea and vomiting, cognitive changes, memory problems, personality changes, weakness or numbness in limbs, and speech difficulties. However, symptoms vary based on tumor location, size, and growth rate.",
+      "keywords": ["symptoms", "signs", "indicators", "headache", "seizure"],
+      "category": "symptoms"
+    },
+    {
+      "id": 3,
+      "question": "What is glioma?",
+      "answer": "Glioma is a type of tumor that occurs in the brain and spinal cord. It begins in glial cells that support nerve cells.",
+      "keywords": ["glioma", "type", "glial cells", "brain cancer", "astrocytoma"],
+      "category": "types"
+    },
+    {
+      "id": 4,
+      "question": "What is meningioma?",
+      "answer": "Meningioma is a tumor that arises from the meninges, the protective membranes surrounding the brain and spinal cord.",
+      "keywords": ["meningioma", "benign", "meninges", "membrane"],
+      "category": "types"
+    },
+    {
+      "id": 5,
+      "question": "What is a pituitary tumor?",
+      "answer": "Pituitary tumors are abnormal growths in the pituitary gland that can affect hormone production.",
+      "keywords": ["pituitary", "adenoma", "hormone", "gland"],
+      "category": "types"
+    },
+    {
+      "id": 6,
+      "question": "How are brain tumors diagnosed?",
+      "answer": "Diagnosis involves MRI scans, CT scans, neurological exams, and sometimes biopsy for confirmation.",
+      "keywords": ["diagnosis", "MRI", "CT scan", "detection", "biopsy"],
+      "category": "diagnosis"
+    },
+    {
+      "id": 7,
+      "question": "What are the treatment options for brain tumors?",
+      "answer": "Treatment options include surgery, radiation therapy, chemotherapy, and targeted drug therapy.",
+      "keywords": ["treatment", "therapy", "surgery", "radiation"],
+      "category": "treatment"
+    },
+    {
+      "id": 8,
+      "question": "Can I upload my MRI for analysis?",
+      "answer": "Yes! You can upload your MRI and get a screening result using AI.",
+      "keywords": ["upload", "MRI", "scan", "AI analysis"],
+      "category": "features"
+    },
+    {
+      "id": 9,
+      "question": "What causes brain tumors?",
+      "answer": "The exact cause is unknown, but genetics and radiation exposure increase risk.",
+      "keywords": ["causes", "risk", "genetic", "radiation"],
+      "category": "causes"
+    },
+    {
+      "id": 10,
+      "question": "What is the prognosis for brain tumors?",
+      "answer": "Prognosis depends on tumor grade, type, location, and early diagnosis.",
+      "keywords": ["prognosis", "survival", "outcome"],
+      "category": "prognosis"
+    },
+    {
+      "id": 11,
+      "question": "How accurate is this AI system?",
+      "answer": "The AI system is highly accurate in MRI-based tumor classification but should be confirmed by doctors.",
+      "keywords": ["AI accuracy", "trust"],
+      "category": "features"
+    },
+    {
+      "id": 12,
+      "question": "What should I do if symptoms appear?",
+      "answer": "Seek immediate medical attention if persistent neurological symptoms occur.",
+      "keywords": ["doctor", "help", "emergency"],
+      "category": "advice"
+    },
+    {
+      "id": 13,
+      "question": "How many types of brain tumors are there?",
+      "answer": "There are more than 120 types of brain tumors, classified into primary and metastatic tumors.",
+      "keywords": ["types", "classification"],
+      "category": "types"
+    },
+    {
+      "id": 14,
+      "question": "What are the different grades of brain tumors?",
+      "answer": "Tumor grades range from I to IV depending on how fast cells grow.",
+      "keywords": ["grades", "stage", "severity"],
+      "category": "types"
+    },
+    {
+      "id": 15,
+      "question": "What is the difference between benign and malignant tumors?",
+      "answer": "Benign tumors are non-cancerous and slow growing, while malignant tumors are cancerous and aggressive.",
+      "keywords": ["benign", "malignant", "difference"],
+      "category": "basics"
+    },
+    {
+      "id": 16,
+      "question": "Can brain tumors cause memory loss?",
+      "answer": "Yes, tumors affecting the temporal or frontal lobe can impact memory formation and recall.",
+      "keywords": ["memory", "forget", "cognitive"],
+      "category": "symptoms"
+    },
+    {
+      "id": 17,
+      "question": "Do all headaches mean a brain tumor?",
+      "answer": "No. Most headaches are not caused by tumors. Only persistent, worsening headaches with neurological changes require evaluation.",
+      "keywords": ["headache", "sign"],
+      "category": "symptoms"
+    },
+    {
+      "id": 18,
+      "question": "What is MRI with contrast?",
+      "answer": "MRI with contrast uses a special dye (gadolinium) to highlight tumor tissues more clearly in brain scans.",
+      "keywords": ["MRI", "contrast", "gadolinium"],
+      "category": "radiology"
+    },
+    {
+      "id": 19,
+      "question": "Can brain tumors be prevented?",
+      "answer": "You cannot fully prevent brain tumors, but reducing radiation exposure and maintaining a healthy lifestyle may lower risk.",
+      "keywords": ["prevent", "avoid", "healthy"],
+      "category": "prevention"
+    },
+    {
+      "id": 20,
+      "question": "What is a biopsy?",
+      "answer": "A biopsy is a procedure where a small sample of tumor tissue is removed and examined to identify its type and grade.",
+      "keywords": ["biopsy", "sample", "diagnosis"],
+      "category": "diagnosis"
+    },
+    {
+      "id": 21,
+      "question": "Can stress cause brain tumors?",
+      "answer": "No scientific evidence proves that stress directly causes brain tumors, but stress can worsen symptoms.",
+      "keywords": ["stress", "mental", "cause"],
+      "category": "causes"
+    },
+    {
+      "id": 22,
+      "question": "Can children get brain tumors?",
+      "answer": "Yes. Brain tumors are the most common solid tumors in children after leukemia. Medulloblastoma is common in kids.",
+      "keywords": ["children", "kids", "pediatric"],
+      "category": "children"
+    },
+    {
+      "id": 23,
+      "question": "What lifestyle changes help brain tumor patients?",
+      "answer": "A balanced diet, mental support, low stress, and regular monitoring improve quality of life.",
+      "keywords": ["lifestyle", "diet", "care"],
+      "category": "lifestyle"
+    },
+    {
+      "id": 24,
+      "question": "What is edema in the brain?",
+      "answer": "Edema refers to swelling around the tumor caused by fluid buildup. Steroids are used to reduce swelling.",
+      "keywords": ["edema", "swelling", "fluid"],
+      "category": "complications"
+    },
+    {
+      "id": 25,
+      "question": "Can brain tumors cause seizures?",
+      "answer": "Yes. Tumors can disrupt electrical activity in the brain leading to seizures.",
+      "keywords": ["seizure", "fits", "cause"],
+      "category": "symptoms"
+    },
+    {
+      "id": 26,
+      "question": "What is stereotactic radiosurgery?",
+      "answer": "It is a precise form of radiation therapy (like Gamma Knife) that targets tumors without open surgery.",
+      "keywords": ["radiosurgery", "Gamma Knife"],
+      "category": "treatment"
+    },
+    {
+      "id": 27,
+      "question": "Can brain tumors return after treatment?",
+      "answer": "Yes, some tumors can recur especially high-grade tumors, so regular follow-up scans are needed.",
+      "keywords": ["recurrence", "return", "repeat"],
+      "category": "prognosis"
+    },
+    {
+      "id": 28,
+      "question": "What is hydrocephalus?",
+      "answer": "Hydrocephalus occurs when tumor blocks cerebrospinal fluid flow, causing fluid buildup and pressure in the brain.",
+      "keywords": ["hydrocephalus", "water in brain"],
+      "category": "complications"
+    },
+    {
+      "id": 29,
+      "question": "Does mobile radiation cause brain tumors?",
+      "answer": "There is no confirmed link between mobile phone radiation and brain tumors according to current research.",
+      "keywords": ["mobile", "radiation", "cause"],
+      "category": "causes"
+    },
+    {
+      "id": 30,
+      "question": "Is brain tumor surgery risky?",
+      "answer": "Yes, surgery can involve risks such as bleeding, infection, neurological changes, or speech/movement difficulties.",
+      "keywords": ["surgery risks", "operation"],
+      "category": "surgery"
+    },
+    {
+      "id": 31,
+      "question": "Can vision problems indicate a pituitary tumor?",
+      "answer": "Yes. Pituitary tumors can press on the optic nerve causing blurred or double vision.",
+      "keywords": ["vision", "eyes", "pituitary"],
+      "category": "symptoms"
+    },
+    {
+      "id": 32,
+      "question": "Why do brain tumors cause personality changes?",
+      "answer": "Tumors in the frontal lobe can affect behavior, mood, decision-making, and personality.",
+      "keywords": ["personality", "frontal lobe"],
+      "category": "symptoms"
+    },
+    {
+      "id": 33,
+      "question": "Can brain tumors spread to other body parts?",
+      "answer": "Malignant tumors can spread to other areas, but primary brain tumors rarely metastasize outside the brain.",
+      "keywords": ["spread", "metastasis"],
+      "category": "types"
+    },
+    {
+      "id": 34,
+      "question": "What is chemotherapy?",
+      "answer": "Chemotherapy uses drugs to destroy cancer cells and is often combined with other treatments.",
+      "keywords": ["chemo", "drugs", "therapy"],
+      "category": "treatment"
+    },
+    {
+      "id": 35,
+      "question": "What are neurological deficits?",
+      "answer": "They refer to loss of brain function such as paralysis, speech problems, or loss of sensation caused by tumors.",
+      "keywords": ["neurological", "deficit"],
+      "category": "complications"
+    },
+    {
+      "id": 36,
+      "question": "Can brain tumors be genetic?",
+      "answer": "Some tumors are linked to inherited genetic disorders like neurofibromatosis, but most are not hereditary.",
+      "keywords": ["genetic", "hereditary"],
+      "category": "causes"
+    },
+    {
+      "id": 37,
+      "question": "What is palliative care?",
+      "answer": "Palliative care focuses on improving comfort and quality of life when cure is not possible.",
+      "keywords": ["palliative", "comfort"],
+      "category": "treatment"
+    },
+    {
+      "id": 38,
+      "question": "Can brain tumors cause speech problems?",
+      "answer": "Yes. Tumors in the speech-related regions (Broca and Wernicke area) can cause difficulty in speaking or understanding speech.",
+      "keywords": ["speech", "aphasia"],
+      "category": "symptoms"
+    },
+    {
+      "id": 39,
+      "question": "What is targeted therapy?",
+      "answer": "Targeted drugs attack specific molecules inside cancer cells, causing fewer side effects than chemotherapy.",
+      "keywords": ["targeted therapy", "precision medicine"],
+      "category": "treatment"
+    },
+    {
+      "id": 40,
+      "question": "Is hair loss common during brain tumor treatment?",
+      "answer": "Hair loss can occur during chemotherapy or radiation therapy but usually grows back after treatment.",
+      "keywords": ["hair loss", "side effects"],
+      "category": "complications"
+    },
+    {
+      "id": 41,
+      "question": "Can brain tumors affect balance and walking?",
+      "answer": "Yes, tumors in the cerebellum or brainstem can disturb movement coordination and balance.",
+      "keywords": ["balance", "walking"],
+      "category": "symptoms"
+    },
+    {
+      "id": 42,
+      "question": "What is a craniotomy?",
+      "answer": "Craniotomy is a surgical procedure in which part of the skull is removed to access the brain for tumor removal.",
+      "keywords": ["craniotomy", "brain surgery"],
+      "category": "surgery"
+    },
+    {
+      "id": 43,
+      "question": "Can a brain tumor cause hormonal changes?",
+      "answer": "Yes. Pituitary and hypothalamus tumors often disrupt hormone levels affecting growth, thyroid, and reproductive functions.",
+      "keywords": ["hormones", "pituitary"],
+      "category": "symptoms"
+    },
+    {
+      "id": 44,
+      "question": "How long does recovery take after brain tumor surgery?",
+      "answer": "Recovery depends on tumor size, location, and patient health. Some recover in weeks while others may need months.",
+      "keywords": ["recovery", "healing"],
+      "category": "recovery"
+    },
+    {
+      "id": 45,
+      "question": "What foods are good for brain health during recovery?",
+      "answer": "Foods rich in omega-3, antioxidants, fruits, green vegetables, and high protein help brain recovery.",
+      "keywords": ["diet", "food"],
+      "category": "lifestyle"
+    },
+    {
+      "id": 46,
+      "question": "Why is early detection important?",
+      "answer": "Early diagnosis helps better treatment planning and improves survival outcomes.",
+      "keywords": ["early detection", "benefit"],
+      "category": "diagnosis"
+    },
+    {
+      "id": 47,
+      "question": "Can brain tumors affect sleep?",
+      "answer": "Yes. Anxiety, pain, hormonal imbalance, and tumor pressure can disturb sleep cycles.",
+      "keywords": ["sleep", "insomnia"],
+      "category": "symptoms"
+    },
+    {
+      "id": 48,
+      "question": "Do brain tumors always grow quickly?",
+      "answer": "No. Some tumors grow very slowly and may not need immediate treatment.",
+      "keywords": ["growth", "slow"],
+      "category": "basics"
+    },
+    {
+      "id": 49,
+      "question": "What follow-up tests are needed after treatment?",
+      "answer": "Regular MRI scans, neurological exams, and hormone testing (for pituitary cases) are recommended.",
+      "keywords": ["follow up", "monitoring"],
+      "category": "recovery"
+    },
+    {
+      "id": 50,
+      "question": "Can brain tumors cause weight changes?",
+      "answer": "Yes. Hormonal tumors can cause rapid weight gain or loss due to metabolic imbalance.",
+      "keywords": ["weight", "hormone"],
+      "category": "symptoms"
+    },
+    {
+      "id": 51,
+      "question": "What is the survival rate for brain tumors?",
+      "answer": "Survival rate depends on tumor type and grade. Low-grade tumors have better survival rates (70-90%), while high-grade tumors have lower rates (30-40%). Early detection improves chances significantly.",
+      "keywords": ["survival rate", "chances", "life expectancy"],
+      "category": "prognosis"
+    },
+    {
+      "id": 52,
+      "question": "Can young adults get brain tumors?",
+      "answer": "Yes, brain tumors can occur at any age. Young adults between 20-40 years can develop tumors, though they are less common than in children or older adults.",
+      "keywords": ["young adults", "age", "youth"],
+      "category": "basics"
+    },
+    {
+      "id": 53,
+      "question": "What is the difference between CT scan and MRI?",
+      "answer": "CT scan uses X-rays and is faster but less detailed. MRI uses magnetic fields and provides clearer images of soft brain tissues. MRI is preferred for brain tumor detection.",
+      "keywords": ["CT vs MRI", "difference", "imaging"],
+      "category": "diagnosis"
+    },
+    {
+      "id": 54,
+      "question": "Can brain tumors cause dizziness?",
+      "answer": "Yes, tumors affecting balance centers in the cerebellum or inner ear areas can cause dizziness, vertigo, and coordination problems.",
+      "keywords": ["dizziness", "vertigo", "balance problems"],
+      "category": "symptoms"
+    },
+    {
+      "id": 55,
+      "question": "What is immunotherapy for brain tumors?",
+      "answer": "Immunotherapy helps your body's immune system recognize and fight cancer cells. It's a newer treatment approach showing promise for certain brain tumors.",
+      "keywords": ["immunotherapy", "immune", "new treatment"],
+      "category": "treatment"
+    },
+    {
+      "id": 56,
+      "question": "Can brain tumors be detected early?",
+      "answer": "Early detection is challenging because symptoms often appear late. Regular check-ups, awareness of warning signs, and MRI screenings for high-risk individuals help.",
+      "keywords": ["early detection", "screening", "catch early"],
+      "category": "diagnosis"
+    },
+    {
+      "id": 57,
+      "question": "What is the blood-brain barrier?",
+      "answer": "The blood-brain barrier is a protective shield that prevents harmful substances from entering the brain. However, it also makes delivering drugs to brain tumors difficult.",
+      "keywords": ["blood brain barrier", "protection", "drugs"],
+      "category": "basics"
+    },
+    {
+      "id": 58,
+      "question": "Can brain tumors cause nausea and vomiting?",
+      "answer": "Yes, especially in the morning. This happens when tumors increase pressure inside the skull. Nausea can also occur due to tumor location affecting balance centers.",
+      "keywords": ["nausea", "vomiting", "morning sickness"],
+      "category": "symptoms"
+    },
+    {
+      "id": 59,
+      "question": "What are the side effects of radiation therapy?",
+      "answer": "Common side effects include fatigue, hair loss in treated area, skin irritation, headaches, and memory problems. Most side effects are temporary and manageable.",
+      "keywords": ["radiation side effects", "therapy effects"],
+      "category": "treatment"
+    },
+    {
+      "id": 60,
+      "question": "Can brain tumors be cured completely?",
+      "answer": "Some benign tumors can be completely removed and cured. Malignant tumors are harder to cure but treatments can control growth and extend life significantly.",
+      "keywords": ["cure", "complete recovery", "healing"],
+      "category": "prognosis"
+    },
+    {
+      "id": 61,
+      "question": "What is a brain stem tumor?",
+      "answer": "Brain stem tumors grow in the lower part of the brain that controls vital functions like breathing and heart rate. They are serious and difficult to treat due to location.",
+      "keywords": ["brain stem", "glioma", "critical area"],
+      "category": "types"
+    },
+    {
+      "id": 62,
+      "question": "Can pregnancy affect brain tumors?",
+      "answer": "Pregnancy hormones can sometimes cause certain tumors (like meningiomas) to grow faster. Pregnant women with tumors need special monitoring and care.",
+      "keywords": ["pregnancy", "hormones", "women"],
+      "category": "special_cases"
+    },
+    {
+      "id": 63,
+      "question": "What is awake brain surgery?",
+      "answer": "In awake surgery, patients are conscious during operation so doctors can test speech and movement while removing tumor. This prevents damage to critical brain areas.",
+      "keywords": ["awake surgery", "conscious operation"],
+      "category": "surgery"
+    },
+    {
+      "id": 64,
+      "question": "Can exercise help brain tumor patients?",
+      "answer": "Yes, gentle exercise improves mood, reduces fatigue, maintains strength, and helps recovery. Always consult your doctor before starting any exercise program.",
+      "keywords": ["exercise", "physical activity", "fitness"],
+      "category": "lifestyle"
+    },
+    {
+      "id": 65,
+      "question": "What is tumor grade?",
+      "answer": "Tumor grade indicates how abnormal cancer cells look under microscope and how fast they grow. Grade I is slowest, Grade IV is most aggressive.",
+      "keywords": ["grade", "stage", "classification"],
+      "category": "basics"
+    },
+    {
+      "id": 66,
+      "question": "Can brain tumors cause hearing loss?",
+      "answer": "Yes, tumors near the auditory nerve or in specific brain regions can cause hearing problems, ringing in ears (tinnitus), or complete hearing loss.",
+      "keywords": ["hearing loss", "deaf", "ear problems"],
+      "category": "symptoms"
+    },
+    {
+      "id": 67,
+      "question": "What is a lumbar puncture?",
+      "answer": "Also called spinal tap, it's a procedure where fluid from around the spinal cord is collected to check for cancer cells or other abnormalities.",
+      "keywords": ["lumbar puncture", "spinal tap", "test"],
+      "category": "diagnosis"
+    },
+    {
+      "id": 68,
+      "question": "Can brain tumors affect emotions?",
+      "answer": "Yes, tumors can cause mood swings, depression, anxiety, irritability, or inappropriate emotional responses depending on their location in the brain.",
+      "keywords": ["emotions", "mood", "feelings", "depression"],
+      "category": "symptoms"
+    },
+    {
+      "id": 69,
+      "question": "What is adjuvant therapy?",
+      "answer": "Adjuvant therapy is additional treatment given after main treatment (usually surgery) to kill remaining cancer cells. It includes chemotherapy or radiation.",
+      "keywords": ["adjuvant", "additional treatment", "after surgery"],
+      "category": "treatment"
+    },
+    {
+      "id": 70,
+      "question": "Can brain tumors cause double vision?",
+      "answer": "Yes, tumors affecting eye movement nerves or visual pathways can cause double vision, blurred vision, or loss of peripheral vision.",
+      "keywords": ["double vision", "eye problems", "vision issues"],
+      "category": "symptoms"
+    },
+    {
+      "id": 71,
+      "question": "What is neuro-oncology?",
+      "answer": "Neuro-oncology is the medical specialty that focuses on brain and spinal cord cancers. Neuro-oncologists are experts in treating nervous system tumors.",
+      "keywords": ["neuro oncology", "specialist", "doctor"],
+      "category": "basics"
+    },
+    {
+      "id": 72,
+      "question": "Can brain tumors cause numbness?",
+      "answer": "Yes, tumors can cause numbness or tingling in face, arms, or legs depending on which part of the brain controls those body areas.",
+      "keywords": ["numbness", "tingling", "sensation loss"],
+      "category": "symptoms"
+    },
+    {
+      "id": 73,
+      "question": "What is Gamma Knife surgery?",
+      "answer": "Gamma Knife is not actually surgery with a knife. It's a type of radiation therapy that delivers precise beams to tumor without cutting skin. It's painless.",
+      "keywords": ["gamma knife", "radiosurgery", "radiation"],
+      "category": "treatment"
+    },
+    {
+      "id": 74,
+      "question": "Can smoking cause brain tumors?",
+      "answer": "There is no strong direct link between smoking and primary brain tumors. However, smoking increases lung cancer risk, which can spread to the brain.",
+      "keywords": ["smoking", "tobacco", "cause"],
+      "category": "causes"
+    },
+    {
+      "id": 75,
+      "question": "What is cognitive rehabilitation?",
+      "answer": "Cognitive rehabilitation is therapy to help patients regain thinking skills like memory, attention, and problem-solving after brain tumor treatment.",
+      "keywords": ["cognitive rehab", "memory therapy", "brain training"],
+      "category": "recovery"
+    },
+    {
+      "id": 76,
+      "question": "Can brain tumors run in families?",
+      "answer": "Most brain tumors are not inherited. However, certain genetic syndromes like Li-Fraumeni syndrome or neurofibromatosis increase family risk.",
+      "keywords": ["family history", "inherited", "genetic"],
+      "category": "causes"
+    },
+    {
+      "id": 77,
+      "question": "What is a brain lesion?",
+      "answer": "A brain lesion is any abnormality in brain tissue. It can be a tumor, scar, infection, or injury. Not all lesions are cancerous.",
+      "keywords": ["lesion", "abnormality", "spot"],
+      "category": "basics"
+    },
+    {
+      "id": 78,
+      "question": "Can brain tumors cause diabetes?",
+      "answer": "Yes, pituitary tumors can disrupt hormone production affecting blood sugar regulation, potentially causing diabetes insipidus (different from regular diabetes).",
+      "keywords": ["diabetes", "blood sugar", "hormone"],
+      "category": "complications"
+    },
+    {
+      "id": 79,
+      "question": "What is watchful waiting?",
+      "answer": "Watchful waiting means monitoring slow-growing tumors with regular scans without immediate treatment. Treatment starts only if tumor grows or causes symptoms.",
+      "keywords": ["watch and wait", "observation", "monitoring"],
+      "category": "treatment"
+    },
+    {
+      "id": 80,
+      "question": "Can brain tumors affect driving ability?",
+      "answer": "Yes, tumors causing seizures, vision problems, or coordination issues can make driving unsafe. Doctors will advise when it's safe to drive again.",
+      "keywords": ["driving", "car", "safety"],
+      "category": "lifestyle"
+    },
+    {
+      "id": 81,
+      "question": "What is tumor resection?",
+      "answer": "Tumor resection means surgical removal of tumor. Complete resection removes entire tumor, while partial resection removes most of it when complete removal isn't safe.",
+      "keywords": ["resection", "removal", "surgery"],
+      "category": "surgery"
+    },
+    {
+      "id": 82,
+      "question": "Can brain tumors cause facial paralysis?",
+      "answer": "Yes, tumors affecting facial nerve can cause weakness or paralysis on one side of face, drooping eyelid, or difficulty closing eye.",
+      "keywords": ["facial paralysis", "face weakness", "bell's palsy"],
+      "category": "symptoms"
+    },
+    {
+      "id": 83,
+      "question": "What is tumor recurrence?",
+      "answer": "Tumor recurrence means cancer comes back after treatment. It can happen in the same place or different location. Regular follow-up helps detect it early.",
+      "keywords": ["recurrence", "comeback", "return"],
+      "category": "prognosis"
+    },
+    {
+      "id": 84,
+      "question": "Can alcohol consumption cause brain tumors?",
+      "answer": "There is no proven direct link between alcohol and brain tumors. However, excessive alcohol damages overall health and should be avoided.",
+      "keywords": ["alcohol", "drinking", "cause"],
+      "category": "causes"
+    },
+    {
+      "id": 85,
+      "question": "What is stereotactic biopsy?",
+      "answer": "It's a precise technique using 3D imaging to guide a needle to exact tumor location for tissue sample collection. It's minimally invasive.",
+      "keywords": ["stereotactic", "needle biopsy", "precise"],
+      "category": "diagnosis"
+    },
+    {
+      "id": 86,
+      "question": "Can brain tumors cause incontinence?",
+      "answer": "Yes, some tumors can affect bladder or bowel control centers in the brain, causing difficulty controlling urination or bowel movements.",
+      "keywords": ["incontinence", "bladder control", "toilet problems"],
+      "category": "symptoms"
+    },
+    {
+      "id": 87,
+      "question": "What is quality of life after treatment?",
+      "answer": "Many patients live normal, productive lives after treatment. Quality depends on tumor type, treatment effects, and rehabilitation. Support groups help greatly.",
+      "keywords": ["quality of life", "living after cancer", "normal life"],
+      "category": "recovery"
+    },
+    {
+      "id": 88,
+      "question": "Can brain tumors cause anger issues?",
+      "answer": "Yes, tumors in frontal lobe can cause personality changes including increased anger, aggression, impulsiveness, or loss of social inhibitions.",
+      "keywords": ["anger", "aggression", "behavior changes"],
+      "category": "symptoms"
+    },
+    {
+      "id": 89,
+      "question": "What is proton therapy?",
+      "answer": "Proton therapy is advanced radiation treatment using proton beams instead of X-rays. It targets tumors precisely while sparing nearby healthy tissue.",
+      "keywords": ["proton therapy", "advanced radiation"],
+      "category": "treatment"
+    },
+    {
+      "id": 90,
+      "question": "Can brain tumors affect sense of smell or taste?",
+      "answer": "Yes, tumors near olfactory nerves or taste centers can cause loss of smell or taste, or experiencing unusual smells or tastes.",
+      "keywords": ["smell", "taste", "olfactory"],
+      "category": "symptoms"
+    },
+    {
+      "id": 91,
+      "question": "What support is available for patients?",
+      "answer": "Support includes counseling, support groups, financial assistance programs, home care services, and online communities. Many hospitals offer comprehensive support services.",
+      "keywords": ["support", "help", "community", "assistance"],
+      "category": "support"
+    },
+    {
+      "id": 92,
+      "question": "Can brain tumors cause confusion?",
+      "answer": "Yes, tumors can cause mental confusion, difficulty concentrating, problems with understanding, or feeling disoriented about time and place.",
+      "keywords": ["confusion", "disorientation", "mental fog"],
+      "category": "symptoms"
+    },
+    {
+      "id": 93,
+      "question": "What is a multidisciplinary team?",
+      "answer": "It's a group of specialists including neurosurgeons, oncologists, radiologists, nurses, and therapists who work together to plan the best treatment for you.",
+      "keywords": ["team", "specialists", "doctors"],
+      "category": "treatment"
+    },
+    {
+      "id": 94,
+      "question": "Can brain tumors affect body temperature regulation?",
+      "answer": "Yes, tumors in hypothalamus can disrupt temperature control causing fever, chills, or inability to feel hot or cold properly.",
+      "keywords": ["temperature", "fever", "hot cold"],
+      "category": "symptoms"
+    },
+    {
+      "id": 95,
+      "question": "What is necrosis in tumors?",
+      "answer": "Necrosis is death of tumor cells, often seen in aggressive tumors. Dead tissue appears on scans and may need to be removed surgically.",
+      "keywords": ["necrosis", "dead cells", "tissue death"],
+      "category": "basics"
+    },
+    {
+      "id": 96,
+      "question": "Can meditation help brain tumor patients?",
+      "answer": "Yes, meditation and mindfulness reduce stress, improve mental clarity, help manage pain, and enhance overall wellbeing during treatment.",
+      "keywords": ["meditation", "mindfulness", "relaxation"],
+      "category": "lifestyle"
+    },
+    {
+      "id": 97,
+      "question": "What is the role of steroids in treatment?",
+      "answer": "Steroids (like dexamethasone) reduce brain swelling around tumors, relieving pressure and symptoms. They're commonly used before and after surgery.",
+      "keywords": ["steroids", "dexamethasone", "swelling"],
+      "category": "treatment"
+    },
+    {
+      "id": 98,
+      "question": "Can brain tumors cause difficulty swallowing?",
+      "answer": "Yes, tumors in brain stem or nerves controlling swallowing can cause dysphagia (difficulty swallowing), choking, or risk of food entering lungs.",
+      "keywords": ["swallowing", "choking", "dysphagia"],
+      "category": "symptoms"
+    },
+    {
+      "id": 99,
+      "question": "What should family members know?",
+      "answer": "Family support is crucial. Learn about the condition, attend appointments, help with daily tasks, watch for symptom changes, and take care of your own mental health too.",
+      "keywords": ["family", "caregivers", "support", "relatives"],
+      "category": "support"
+    },
+    {
+      "id": 100,
+      "question": "Is alternative medicine effective for brain tumors?",
+      "answer": "Alternative therapies (yoga, acupuncture, herbs) may help manage symptoms and stress but should never replace standard medical treatment. Always inform your doctor about any supplements.",
+      "keywords": ["alternative medicine", "herbal", "complementary"],
+      "category": "treatment"
+    }
+  ]
+}
